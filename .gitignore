@@ -1,3 +1,4 @@
 # Ignore workflow logs and artifacts, but not workflow YAML files
 !.github/workflows/*.yml
 !.github/workflows/*.yaml
+.env
